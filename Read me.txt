@@ -17,7 +17,7 @@ How to run the Online Shoppinh Portal using PHP and MySQL
 
 Login Details For User :
 
-Username : anuj.lpu1@gmail.com
+Username : vapa18cs@cmrit.ac.in
 Password : Test@123
 
 For Admin :
